@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation": "BAMA",
-          "prestige": "95",
+          "prestige": "85",
           "hexColor" : "A60C31",
           "rival": "AUB",
           "headCoach" : {
